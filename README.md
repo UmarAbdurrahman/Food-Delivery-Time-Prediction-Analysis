@@ -110,5 +110,3 @@ Tujuan utama project ini adalah:
 * Model membantu mengurangi keluhan pelanggan, serta mendukung efisiensi operasional.
 
 ---
-
-Apakah Anda mau saya tambahkan juga **cara menjalankan project (installation & usage guide)** biar lebih lengkap untuk README GitHub?
